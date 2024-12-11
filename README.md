@@ -4,7 +4,7 @@
 ![DFD](https://github.com/c0st1nus/Forum/blob/main/DFD/Koshevoy's%20DFD.png)
 
 ## ERD
-![ERD](https://github.com/c0st1nus/Forum/blob/main/ERD/ERD.png)
+![ERD](https://github.com/c0st1nus/Forum/blob/89650c8f284133ebfe53b784e8ba38678f3b36d4/ERD/Koshevoy_K's%20ERD.png)
 
 ## Flowcharts
 - ## Sign Up
