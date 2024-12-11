@@ -1,18 +1,21 @@
 # This is project of Koshevoy's Konstantin
 
 ## DFD
-![DFD](https://github.com/c0st1nus/Forum/blob/69b78fb550558941efa88f77eab827f9b68b212a/DFD/Koshevoy's%20DFD.png)
+![DFD](https://github.com/c0st1nus/Forum/blob/main/DFD/Koshevoy's%20DFD.png)
+
+## ERD
+![ERD](https://github.com/c0st1nus/Forum/blob/main/ERD/ERD.png)
 
 ## Flowcharts
 - ## Sign Up
-  ![Sign Up](https://github.com/c0st1nus/Forum/blob/69b78fb550558941efa88f77eab827f9b68b212a/Flowcharts/Sign%20Up/SignUp.png)
+  ![Sign Up](https://github.com/c0st1nus/Forum/blob/main/Flowcharts/Sign%20Up/SignUp.png)
 - ## Sign In
-  ![Sign In](https://github.com/c0st1nus/Forum/blob/69b78fb550558941efa88f77eab827f9b68b212a/Flowcharts/Sign%20In/SignIn.png)
+  ![Sign In](https://github.com/c0st1nus/Forum/blob/main/Flowcharts/Sign%20In/SignIn.png)
 - ## Create Chat
-  ![Create Chat](https://github.com/c0st1nus/Forum/blob/69b78fb550558941efa88f77eab827f9b68b212a/Flowcharts/Create%20Chat/CreateChat.png)
+  ![Create Chat](https://github.com/c0st1nus/Forum/blob/main/Flowcharts/Create%20Chat/CreateChat.png)
 - ## Delete Chat
-  ![Delete Chat](https://github.com/c0st1nus/Forum/blob/69b78fb550558941efa88f77eab827f9b68b212a/Flowcharts/Delete%20Chat/DeleteChat.png)
+  ![Delete Chat](https://github.com/c0st1nus/Forum/blob/main/Flowcharts/Delete%20Chat/DeleteChat.png)
 - ## Send Message
-  ![Send Message](https://github.com/c0st1nus/Forum/blob/69b78fb550558941efa88f77eab827f9b68b212a/Flowcharts/Send%20Message/SendMessage.png)
+  ![Send Message](https://github.com/c0st1nus/Forum/blob/main/Flowcharts/Send%20Message/SendMessage.png)
 - ## Delete Message
-  ![Delete Message](https://github.com/c0st1nus/Forum/blob/69b78fb550558941efa88f77eab827f9b68b212a/Flowcharts/Delete%20Message/DeleteMessage.png)
+  ![Delete Message](https://github.com/c0st1nus/Forum/blob/main/Flowcharts/Delete%20Message/DeleteMessage.png)
